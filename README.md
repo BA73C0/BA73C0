@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 📫 I’m currently studing Computer Engineering at FIUBA
+
 <!--
 **BA73C0/BA73C0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
